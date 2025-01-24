@@ -69,6 +69,7 @@ This is <b>Matt</b>'s <abbr title="Terminal User Interface">TUI</abbr> Github Pr
 <b>❯ </b>ls ./projects/</span>
 
 <a href="https://github.com/mgb-dev/automatic-music-sorter">ams.toml</a>  <a href="https://github.com/mgb-dev/mgb-deb">github-readme.md</a>
+<a href="https://github.com/mgb-dev/dotfiles">.dotfiles</a>
 <!-- - fee calculator -->
 <!-- - backend project -->
 <!-- - go+htmx terminal themed portfolio -->
