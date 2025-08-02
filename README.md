@@ -3,7 +3,7 @@
 
 <h3 align="center">
     <em>
-    Backend developer passionate about systems, automation, and
+    Backend Developer passionate about systems, automation, and
     <br/>
     digging deep to understand how things work.
     </em>
@@ -36,7 +36,7 @@
         </a>
         &nbsp;
         <a href="https://www.mysql.com/" target="blank">
-            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Mysql logo"/>
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo"/>
         </a>
         &nbsp;
         <a href="https://www.mongodb.com/" target="blank">
@@ -98,7 +98,7 @@
 
 ## 🕺Personal summary
 
-- 🔭 I’m currently working on **My portfolio project**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Backend | Go | SQL | SSH | TUI**
 
@@ -108,7 +108,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mgb-dev (portfolio WIP)](github.com/mgb-dev "portfolio WIP")
 
-- 💬 Ask me about:
+- 💬 I enjoy talking about::
 <div align="center">
     <table>
         <tr>
@@ -140,6 +140,7 @@
 
     <!--end: personal_summary-->
   <!--begin: contact-->
+
 ## 📫 Open to backend roles – reach out!:
 
 <span>
@@ -159,8 +160,8 @@
 
 ## 💼 Projects
 
-- [🗃️ Dotfiles - Tool and Enviroment Configuration files](https://github.com/mgb-dev/dotfiles)
-- [🎵 Automatic Music Sorter - CLI tool - Go](https://github.com/mgb-dev/automatic-music-sorter)
+- [🗃️ Dotfiles](https://github.com/mgb-dev/dotfiles) – My custom system setup for CLI-based development.
+- [🎵 Music Sorter (Go)](https://github.com/mgb-dev/automatic-music-sorter) – CLI tool to organize music files into folders automatically.
   <!--end: projects-->
   <!--begin: github_stats-->
 
