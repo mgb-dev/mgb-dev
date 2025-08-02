@@ -16,10 +16,11 @@
     &nbsp;
     <img src="https://img.shields.io/github/stars/mgb-dev?style=for-the-badge" alt="Stars Badge" />
 </p>
+<br/>
 <!--end: header-->
 <!--begin: language_tools-->
 
-### 🔧 Languages and Tools:
+## 🔧 Languages and Tools:
 
 <div align="center">
     <span>
@@ -47,49 +48,47 @@
             <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua logo"/>
         </a>
     </span>
-<br/><br/>
-<span>
+    <br/><br/>
+    <span>
         <a href="https://nodejs.org/en/about">
         <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Nodejs logo"/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://expressjs.com/">
         <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Expressjs logo"/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://react.dev/">
         <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt=""/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://sequelize.org/">
         <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize logo"/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://mongoosejs.com/">
         <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose logo"/>
-    </a>
+        </a>
     </span>
-<br/><br/>
-<span>
+    <br/><br/>
+    <span>
         <a href="https://www.linux.com/what-is-linux/">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo"/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://www.gnu.org/software/bash/">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash logo"/>
-    </a>
+        </a>
         &nbsp;
         <a href="https://git-scm.com/">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo"/>
-    </a>
         &nbsp;
         <a href="https://neovim.io/">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim logo"/>
-    </a>
         &nbsp;
         <a href="https://github.com/tmux/tmux/wiki">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux logo"/>
-    </a>
+        </a>
     </span>
 <br/><br/>
 </div>
@@ -136,6 +135,7 @@
             </td>
         </tr>
     </table>
+    <br/>
 </div>
 
     <!--end: personal_summary-->
