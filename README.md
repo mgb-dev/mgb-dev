@@ -1,5 +1,5 @@
 <!--begin: header-->
-<h1 id="title" align="center">Hi 👋, I'm Matias Bargzahi</h1>
+<h1 id="title" align="center">Hi 👋, I'm Matias Barzaghi</h1>
 
 <h3 align="center">
     <em>
