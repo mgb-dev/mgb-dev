@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matias Bargzahi</h1>
 
-<h3 align="center">A terminal enthusiast and The "Yeah... But why, tho" - guy 🤣</h3>
+<h3 align="center">
+    <em>
+    Backend developer passionate about systems, automation, and
+    <br/>
+    digging deep to understand how things work.
+    </em>
+</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mgb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mgb-dev" />
