@@ -16,6 +16,82 @@
     <img src="https://img.shields.io/github/stars/mgb-dev?style=for-the-badge" alt="Stars Badge" />
 </p>
 
+### 🔧 Languages and Tools:
+
+<div align="center">
+    <span>
+        <a href="https://go.dev/" target="blank">
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Golang logo"/>
+        </a>
+        &nbsp;
+        <a href="https://www.typescriptlang.org/" target="blank">
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript logo"/>
+        </a>
+        &nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript logo"/>
+        </a>
+        &nbsp;
+        <a href="https://www.mysql.com/" target="blank">
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Mysql logo"/>
+        </a>
+        &nbsp;
+        <a href="https://www.mongodb.com/" target="blank">
+            <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB logo"/>
+        </a>
+        &nbsp;
+        <a href="https://www.lua.org/about.html" target="blank">
+            <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua logo"/>
+        </a>
+    </span>
+<br/><br/>
+<span>
+        <a href="https://nodejs.org/en/about">
+        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Nodejs logo"/>
+    </a>
+        &nbsp;
+        <a href="https://expressjs.com/">
+        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Expressjs logo"/>
+    </a>
+        &nbsp;
+        <a href="https://react.dev/">
+        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt=""/>
+    </a>
+        &nbsp;
+        <a href="https://sequelize.org/">
+        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize logo"/>
+    </a>
+        &nbsp;
+        <a href="https://mongoosejs.com/">
+        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose logo"/>
+    </a>
+    </span>
+<br/><br/>
+<span>
+        <a href="https://www.linux.com/what-is-linux/">
+        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo"/>
+    </a>
+        &nbsp;
+        <a href="https://www.gnu.org/software/bash/">
+        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash logo"/>
+    </a>
+        &nbsp;
+        <a href="https://git-scm.com/">
+        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo"/>
+    </a>
+        &nbsp;
+        <a href="https://neovim.io/">
+        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim logo"/>
+    </a>
+        &nbsp;
+        <a href="https://github.com/tmux/tmux/wiki">
+        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux logo"/>
+    </a>
+    </span>
+<br/><br/>
+</div>
+<!--end of language and tools-->
+
 ## 🕺Personal summary
 
 - 🔭 I’m currently working on **My portfolio project**
@@ -74,76 +150,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
 
-<span>
-    <a href="https://go.dev/" target="blank">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Golang logo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org/" target="blank">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript logo"/>
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript logo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.mysql.com/" target="blank">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Mysql logo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.mongodb.com/" target="blank">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB logo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.lua.org/about.html" target="blank">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua logo"/>
-    </a>
-</span>
-<br/><br/>
-<span>
-    <a href="https://nodejs.org/en/about">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Nodejs logo"/>
-    </a>
-    &nbsp;
-    <a href="https://expressjs.com/">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Expressjs logo"/>
-    </a>
-    &nbsp;
-    <a href="https://react.dev/">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt=""/>
-    </a>
-    &nbsp;
-    <a href="https://sequelize.org/">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize logo"/>
-    </a>
-    &nbsp;
-    <a href="https://mongoosejs.com/">
-        <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose logo"/>
-    </a>
-</span>
-<br/><br/>
-<span>
-    <a href="https://www.linux.com/what-is-linux/">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.gnu.org/software/bash/">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash logo"/>
-    </a>
-    &nbsp;
-    <a href="https://git-scm.com/">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo"/>
-    </a>
-    &nbsp;
-    <a href="https://neovim.io/">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim logo"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/tmux/tmux/wiki">
-        <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux logo"/>
-    </a>
 add projects
 
 ## 📊 Some Github Stats
