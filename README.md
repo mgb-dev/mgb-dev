@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=mgb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mgb-dev" />
 </p>
 
-## About me
+## 🕺Personal summary
 
 - 🔭 I’m currently working on **My portfolio project**
 
@@ -31,16 +31,22 @@
             <td>
                 <ul>
                     <li>🧪&nbsp;&nbsp;Science</li>
+                    <br/>
                     <li>📈&nbsp;&nbsp;Math</li>
+                    <br/>
                     <li>🖥️&nbsp;&nbsp;Tech</li>
-                    <li>📄&nbsp;&nbsp;Programing</li>
+                    <br/>
+                    <li>📄&nbsp;&nbsp;Programming</li>
                 </ul>
             </td>
             <td>
                 <ul>
                     <li>🐧&nbsp;&nbsp;Linux</li>
+                    <br/>
                     <li>❯▁&nbsp;Terminal</li>
+                    <br/>
                     <li>⌨️ &nbsp;&nbsp;Neovim</li>
+                    <br/>
                     <li>🟩&nbsp;&nbsp;Minecraft</li>
                 </ul>
             </td>
@@ -56,17 +62,20 @@
 &nbsp;
 </p>
 
-### Connect with me:
+## 📫 Open to backend roles – reach out!:
 
 <span>
     <a href="https://linkedin.com/in/matias-barzaghi" target="blank">
         <img style="height: 60px; width: 60px;" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="matias-barzaghi" />
     </a>
- &nbsp;
+    &nbsp;
     <a href="mailto:matiasgbarzaghi@gmail.com" target="blank">
         <img style="height: 60px; width: 60px;" align="center" src="https://img.icons8.com/?size=60&id=qyRpAggnV0zH&format=png&color=000000"/>
     </a>
 </span>
+<br/>
+<br/>
+<br/>
 
 ### Languages and Tools:
 
@@ -139,7 +148,6 @@
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux logo"/>
     </a>
 </span>
-<br/><br/>
 
 <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
