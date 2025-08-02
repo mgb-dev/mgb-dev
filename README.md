@@ -277,17 +277,17 @@
 
 ## 📊 Some Github Stats
 
-<span align="center">
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=mgbdev&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="mgb-dev" />
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgb-dev&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="mgb-dev" />
-&nbsp;
-</span>
+<div align="center">
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=mgbdev&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="mgb-dev" />
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgb-dev&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="mgb-dev" />
+    &nbsp;
+</div>
 
-<span>
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mgb-dev" alt="mgb-dev" />
     </a> 
-</span>
+</div>
 <!--end: github_stats-->
 <hr/>
 <div align="right">
