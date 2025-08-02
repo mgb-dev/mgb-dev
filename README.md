@@ -1,3 +1,4 @@
+<!--begin: header-->
 <h1 align="center">Hi 👋, I'm Matias Bargzahi</h1>
 
 <h3 align="center">
@@ -15,6 +16,8 @@
     &nbsp;
     <img src="https://img.shields.io/github/stars/mgb-dev?style=for-the-badge" alt="Stars Badge" />
 </p>
+<!--end: header-->
+<!--begin: language_tools-->
 
 ### 🔧 Languages and Tools:
 
@@ -90,7 +93,8 @@
     </span>
 <br/><br/>
 </div>
-<!--end of language and tools-->
+<!--end: language_tools-->
+<!--begin: personal_summary-->
 
 ## 🕺Personal summary
 
@@ -134,6 +138,8 @@
     </table>
 </div>
 
+    <!--end: personal_summary-->
+  <!--begin: contact-->
 ## 📫 Open to backend roles – reach out!:
 
 <span>
@@ -148,11 +154,15 @@
 <br/>
 <br/>
 <br/>
+<!--end: contact-->
+<!--begin: projects-->
 
 ## 💼 Projects
 
 - [🗃️ Dotfiles - Tool and Enviroment Configuration files](https://github.com/mgb-dev/dotfiles)
 - [🎵 Automatic Music Sorter - CLI tool - Go](https://github.com/mgb-dev/automatic-music-sorter)
+  <!--end: projects-->
+  <!--begin: github_stats-->
 
 ## 📊 Some Github Stats
 
@@ -167,3 +177,4 @@
         <img src="https://github-profile-trophy.vercel.app/?username=mgb-dev" alt="mgb-dev" />
     </a> 
 </span>
+<!--end: github_stats-->
