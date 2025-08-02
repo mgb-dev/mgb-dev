@@ -9,7 +9,11 @@
 </h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mgb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mgb-dev" />
+    <img src="https://komarev.com/ghpvc/?username=mgb-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Views Badge" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/mgb-dev?style=for-the-badge" alt="Followers Badge" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/mgb-dev?style=for-the-badge" alt="Stars Badge" />
 </p>
 
 ## 🕺Personal summary
