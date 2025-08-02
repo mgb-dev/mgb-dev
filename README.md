@@ -54,13 +54,6 @@
     </table>
 </div>
 
-## Some Github Stats
-
-<p align="center">
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=mgbdev&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="mgb-dev" />
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgb-dev&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="mgb-dev" />
-&nbsp;
-</p>
 
 ## 📫 Open to backend roles – reach out!:
 
@@ -147,6 +140,14 @@
     <a href="https://github.com/tmux/tmux/wiki">
         <img style="width: 60px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux logo"/>
     </a>
+add projects
+
+## 📊 Some Github Stats
+
+<span align="center">
+<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=mgbdev&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="mgb-dev" />
+<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgb-dev&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="mgb-dev" />
+&nbsp;
 </span>
 
 <span>
