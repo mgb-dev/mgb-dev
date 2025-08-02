@@ -138,6 +138,22 @@
     <br/>
 </div>
 
+- <details open="true"> 
+              <summary>🙋 About me</summary>
+      <div style="text-align: justify">
+          I'm a <b>Junior Backend Developer</b> with <b>curiosity</b> and a strong bias for <b>simplicity</b>.
+          <br/>
+          I aim to build systems with <b>clarity, resiliency, and future-proof design</b> — I call it the "NASA ethos."
+          <br/>
+          <br/>
+          I have found my calling inside the vast world of computer science — from how silicon wafers are manufactured, to how math and logic define the algorithms that process electrical 1s and 0s, to the protocols that allow fast, secure, reliable communication with the rest of the world.
+          <br/>
+          <br/>
+          Technology shapes every layer of modern life. <b>Contributing to it</b> — by learning, building, and solving real problems — 
+          <br/>
+          <b>is what drives me</b>.
+      </div>
+        </details>
     <!--end: personal_summary-->
   <!--begin: contact-->
 
