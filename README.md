@@ -151,7 +151,8 @@
 
 ## 💼 Projects
 
-add projects
+- [🗃️ Dotfiles - Tool and Enviroment Configuration files](https://github.com/mgb-dev/dotfiles)
+- [🎵 Automatic Music Sorter - CLI tool - Go](https://github.com/mgb-dev/automatic-music-sorter)
 
 ## 📊 Some Github Stats
 
