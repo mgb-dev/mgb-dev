@@ -134,7 +134,6 @@
     </table>
 </div>
 
-
 ## 📫 Open to backend roles – reach out!:
 
 <span>
@@ -150,6 +149,7 @@
 <br/>
 <br/>
 
+## 💼 Projects
 
 add projects
 
