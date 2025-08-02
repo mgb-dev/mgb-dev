@@ -49,7 +49,7 @@
             <img
                 style="height: 60px; width: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-                alt="Typescript logo"
+                alt="TypeScript logo"
                 title="Programming Language"
             />
         </a>
@@ -58,7 +58,7 @@
             <img 
                 style="height: 60px; width: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-                alt="Javascript logo"
+                alt="JavaScript logo"
                 title="Programming Language"
             />
         </a>
@@ -77,7 +77,7 @@
                 style="height: 60px; width: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
                 alt="MongoDB logo"
-                title="Non Relational Database"
+                title="Non-Relational Database"
             />
         </a>
         &nbsp;
@@ -97,7 +97,7 @@
                 style="height: 60px; width: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
                 alt="Nodejs logo"
-                title="Javacript Backend Runtime"
+                title="JavaScript Backend Runtime"
             />
         </a>
         &nbsp;
@@ -133,7 +133,7 @@
                 style="height: 60px; width: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
                 alt="Mongoose logo"
-                title="Non Relational Database Interfacing Library"
+                title="Non-Relational Database Interfacing Library"
             />
         </a>
     </span>
@@ -144,7 +144,7 @@
                 style="width: 60px; height: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
                 alt="Linux logo"
-                title="Open Source Operative System"
+                title="Open Source Operating System"
             />
         </a>
         &nbsp;
@@ -162,7 +162,7 @@
                 style="width: 60px; height: 60px;"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
                 alt="Git logo"
-                title="Destributed Version Control System"
+                title="Distributed Version Control System"
             />
         </a>
         &nbsp;
@@ -201,7 +201,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mgb-dev (portfolio WIP)](github.com/mgb-dev "portfolio WIP")
 
-- 💬 I enjoy talking about::
+- 💬 I enjoy talking about:
 <div align="center">
     <table>
         <tr>
@@ -233,14 +233,14 @@
 </div>
 
 - <details open="true"> 
-              <summary>🙋 About me</summary>
+              <summary>🙋 About me:</summary>
       <div style="text-align: justify">
           I'm a <b>Junior Backend Developer</b> with <b>curiosity</b> and a strong bias for <b>simplicity</b>.
           <br/>
           I aim to build systems with <b>clarity, resiliency, and future-proof design</b> — I call it the "NASA ethos."
           <br/>
           <br/>
-          I have found my calling inside the vast world of computer science — from how silicon wafers are manufactured, to how math and logic define the algorithms that process electrical 1s and 0s, to the protocols that allow fast, secure, reliable communication with the rest of the world.
+          I have found my calling inside the vast world of computer science — from how silicon wafers are manufactured, to how math and logic define the algorithms that process electrical 1s and 0s, to the protocols that allow fast, secure, reliable communication worldwide.
           <br/>
           <br/>
           Technology shapes every layer of modern life. <b>Contributing to it</b> — by learning, building, and solving real problems — 
